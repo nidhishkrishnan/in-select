@@ -15,7 +15,7 @@ Require `in-select.js` to your project and use this syntax in your templates:
 
     <in-select ng-model="yourModal" select-list="selectList"></in-select>
     
-## Compared to classic group related drop-down list.
+## Compared to classic group related drop-down list
 
 * Classic group related drop-down list uses `<optgroup>` for showing up the group header, but the main issue is that users can't select 
   those header label at any cost ([Demo](https://jsfiddle.net/gm23gwq5/embedded/result/))
