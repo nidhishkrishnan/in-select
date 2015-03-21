@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('IndentationSelect', [])
+angular.module('inSelect', [])
 
 .run(function($templateCache) {
 
