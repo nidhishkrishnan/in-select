@@ -35,6 +35,6 @@ Use the below syntax in your templates:
 ## Demo
 
 Try out the demo :
-[Demo](https://jsfiddle.net/x85x6rpz/)  
+[Demo](https://jsfiddle.net/a1jffmyt/)  
 
 
