@@ -9,11 +9,21 @@
 * Coloring of options (Not Yet Implemented)
 * Works in all browsers (IE8+, Chrome, Firefox, Safari etc.)
 
-## Usage
+##How do I add this to my project?
 
-Require `in-select.js` to your project and use this syntax in your templates:
-
-    <in-select ng-model="yourModal" select-list="selectList"></in-select>
+You can download the unminified version manually from CDN
+```
+<script type="text/javascript" src="https://cdn.rawgit.com/nidhishkrishnan/in-select/master/in-select.js"></script>
+```
+Adding `inSelect` Dependency to your app
+```
+// Add inSelect as a dependency to your app
+angular.module('your-app', ['inSelect']);
+```
+Use the below syntax in your templates:
+```
+<in-select ng-model="yourModal" select-list="selectList"></in-select>
+```
     
 ## Compared to classic group related drop-down list
 
