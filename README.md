@@ -4,9 +4,9 @@
 
 * Provides indendation for option values
 * Single and Nested option group indendation
-* Option group header can be bolded or unbolded by the user
+* Option group header can be bolded or unbolded by the user (Not Yet Implemented)
 * Users can select the group option header which is the main feature of inSelect
-* Coloring of options
+* Coloring of options (Not Yet Implemented)
 * Works in all browsers (IE8+, Chrome, Firefox, Safari etc.)
 
 ## Usage
@@ -25,6 +25,6 @@ Require `in-select.js` to your project and use this syntax in your templates:
 ## Demo
 
 Try out the demo :
-[Demo](https://jsfiddle.net)  
+[Demo](https://jsfiddle.net/x85x6rpz/)  
 
 
