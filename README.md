@@ -7,7 +7,7 @@
 * Option group header can be bolded or unbolded by the user (Not Yet Implemented)
 * Users can select the group option header which is the main feature of inSelect
 * Coloring of options (Not Yet Implemented)
-* Works in all browsers (IE8+, Chrome, Firefox, Safari etc.)
+* Works in all modern browsers (IE8+, Chrome, Firefox, Safari etc.)
 
 ##How do I add this to my project?
 
