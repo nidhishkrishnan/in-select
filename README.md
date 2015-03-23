@@ -32,7 +32,7 @@ Use the below syntax in your templates:
   
   <iframe width="100%" height="300" src="//jsfiddle.net/gvbodbb9/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-## Demo
+## Working Demo
 
 Try out the demo :
 [Demo](https://jsfiddle.net/a1jffmyt/)  
